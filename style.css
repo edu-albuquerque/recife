@@ -1,0 +1,56 @@
+h1 {
+    color:blue;
+        
+}
+h2 {
+    color: red;
+    text-align: center;    
+}
+h3 {
+    color: rgb(123, 255, 0);
+}
+.azul {
+    color: rgb(7, 51, 192);
+    
+}
+.elegante {
+    font-weight: bold;
+    text-shadow: 4px 4px 3px rgb(7, 51, 192);
+    
+}
+nav { 
+    
+    display: flex;
+    justify-content: space-evenly;
+
+    background-color:rgb(250, 249, 243);
+
+    padding: 0;
+    
+    
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 3rem;
+    align-items: center;
+    
+   
+}
+
+*{
+    margin: 1;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 100%;
+    
+}
+
+body {
+    font-size: 1rem;
+    font-family: 'roboto', sans-serif;
+}
