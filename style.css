@@ -22,12 +22,7 @@ nav {
     
     display: flex;
     justify-content: space-evenly;
-
-    background-color:rgb(250, 249, 243);
-
-    padding: 0;
-    
-    
+    background-color:rgb(250, 249, 243);    
 }
 
 ul {
